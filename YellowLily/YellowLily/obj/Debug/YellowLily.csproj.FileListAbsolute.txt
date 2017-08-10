@@ -1,0 +1,12 @@
+c:\users\kuma\documents\visual studio 2015\Projects\YellowLily\YellowLily\bin\Debug\YellowLily.exe.config
+c:\users\kuma\documents\visual studio 2015\Projects\YellowLily\YellowLily\bin\Debug\YellowLily.exe
+c:\users\kuma\documents\visual studio 2015\Projects\YellowLily\YellowLily\bin\Debug\YellowLily.pdb
+c:\users\kuma\documents\visual studio 2015\Projects\YellowLily\YellowLily\obj\Debug\YellowLily.csprojResolveAssemblyReference.cache
+c:\users\kuma\documents\visual studio 2015\Projects\YellowLily\YellowLily\obj\Debug\YellowLily.exe
+c:\users\kuma\documents\visual studio 2015\Projects\YellowLily\YellowLily\obj\Debug\YellowLily.pdb
+C:\Users\NG.nakamura\Desktop\YellowLily\YellowLily\YellowLily\bin\Debug\YellowLily.exe.config
+C:\Users\NG.nakamura\Desktop\YellowLily\YellowLily\YellowLily\obj\Debug\YellowLily.exe
+C:\Users\NG.nakamura\Desktop\YellowLily\YellowLily\YellowLily\obj\Debug\YellowLily.pdb
+C:\Users\NG.nakamura\Desktop\YellowLily\YellowLily\YellowLily\bin\Debug\YellowLily.exe
+C:\Users\NG.nakamura\Desktop\YellowLily\YellowLily\YellowLily\bin\Debug\YellowLily.pdb
+C:\Users\NG.nakamura\Desktop\YellowLily\YellowLily\YellowLily\obj\Debug\YellowLily.csprojResolveAssemblyReference.cache
